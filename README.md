@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-C Language Based : Tic - Tac - Toe Game 
+C Language Based : Tic - Tac - Toe Game .
